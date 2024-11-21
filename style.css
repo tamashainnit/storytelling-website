@@ -1,0 +1,21 @@
+
+p{color: blue}
+h1{color: blueviolet}
+
+
+
+
+
+
+ol{color:teal}
+ul{color:orchid}
+
+.list{
+    color: rebeccapurple;
+    border-style:solid;
+    border-color:indianred;
+}
+#header{
+    color:aqua;
+    text-align:center;
+}
